@@ -1,0 +1,95 @@
+{
+  "produks": [
+    {
+      "id": 1,
+      "nama": "kaos",
+      "deskripsi": "Pakaian",
+      "harga": "50000",
+      "stok": 2
+    },
+    {
+      "id": 2,
+      "nama": "celana",
+      "deskripsi": "Pakaian",
+      "harga": "30000",
+      "stok": 10
+    },
+    {
+      "id": 3,
+      "nama": "bandana",
+      "deskripsi": "Pakaian",
+      "harga": "20000",
+      "stok": 7
+    },
+    {
+      "id": 4,
+      "nama": "bandana",
+      "deskripsi": "Pakaian",
+      "harga": "13000",
+      "stok": 7
+    },
+    {
+      "id": 5,
+      "nama": "bandana",
+      "deskripsi": "Pakaian",
+      "harga": "63000",
+      "stok": 7
+    },
+    {
+      "id": 6,
+      "nama": "bandana",
+      "deskripsi": "Pakaian",
+      "harga": "34000",
+      "stok": 7
+    },
+    {
+      "id": 7,
+      "nama": "bandana",
+      "deskripsi": "Pakaian",
+      "harga": "71000",
+      "stok": 7
+    },
+    {
+      "id": 8,
+      "nama": "bandana",
+      "deskripsi": "Pakaian",
+      "harga": "56000",
+      "stok": 7
+    },
+    {
+      "id": 9,
+      "nama": "bandana",
+      "deskripsi": "Pakaian",
+      "harga": "43000",
+      "stok": 7
+    },
+    {
+      "id": 10,
+      "nama": "bandana",
+      "deskripsi": "Pakaian",
+      "harga": "42000",
+      "stok": 7
+    },
+    {
+      "id": 11,
+      "nama": "bandana",
+      "deskripsi": "Pakaian",
+      "harga": "37000",
+      "stok": 7
+    },
+    {
+      "id": 12,
+      "nama": "bandana",
+      "deskripsi": "Pakaian",
+      "harga": "41000",
+      "stok": 7
+    },
+    {
+      "id": 13,
+      "nama": "bandana",
+      "deskripsi": "Pakaian",
+      "harga": "73000",
+      "stok": 7
+    }
+  ]
+}
